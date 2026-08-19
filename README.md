@@ -3,10 +3,9 @@
 ## Complete User Manual and Technical Documentation
 
 **Developed by [Francesc Adrià Sancho González](https://github.com/W1Adri)**, with
-Harshit Tiwari and Satyendra Kumar Mishra, at the **Space and Resilient Communications
-and Systems (SRCOM)** research unit of the **Centre Tecnològic de Telecomunicacions de
-Catalunya (CTTC)** — Parc Mediterrani de la Tecnologia, Building B4, Av. Carl Friedrich
-Gauss 7, 08860 Castelldefels, Barcelona, Spain.
+Harshit Tiwari and Satyendra Kumar Mishra, at the **Centre Tecnològic de
+Telecomunicacions de Catalunya (CTTC)** — Parc Mediterrani de la Tecnologia,
+Building B4, Av. Carl Friedrich Gauss 7, 08860 Castelldefels, Barcelona, Spain.
 
 Released under the [MIT License](LICENSE).
 
@@ -1527,21 +1526,20 @@ When adding new features:
 ## Authors and Acknowledgements
 
 Developed by **Francesc Adrià Sancho González**, with **Harshit Tiwari** and
-**Satyendra Kumar Mishra**, at the **Space and Resilient Communications and Systems
-(SRCOM)** research unit of the **Centre Tecnològic de Telecomunicacions de Catalunya
-(CTTC)**, Parc Mediterrani de la Tecnologia, Building B4, Av. Carl Friedrich Gauss 7,
-08860 Castelldefels, Barcelona, Spain.
+**Satyendra Kumar Mishra**, at the **Centre Tecnològic de Telecomunicacions de
+Catalunya (CTTC)**, Parc Mediterrani de la Tecnologia, Building B4, Av. Carl
+Friedrich Gauss 7, 08860 Castelldefels, Barcelona, Spain.
 
 We gratefully acknowledge **F. Adrià Sancho González**, our research intern at
-SRCOM/CTTC, who built this simulator from the ground up during his internship.
+CTTC, who built this simulator from the ground up during his internship.
 This project stands as a direct credit to his work.
 
 This work was carried out using the computational, laboratory, and research
 resources of the **Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)**,
 Parc Mediterrani de la Tecnologia, Building B4, Av. Carl Friedrich Gauss 7,
-08860 Castelldefels, Barcelona, Spain, under the SRCOM research unit.
+08860 Castelldefels, Barcelona, Spain.
 
-If you use this simulator in academic work, please cite it and credit CTTC/SRCOM.
+If you use this simulator in academic work, please cite it and credit CTTC.
 
 ---
 
